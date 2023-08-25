@@ -33,24 +33,7 @@ The project underscores the developer's expertise in C++ programming and their a
 ## Files
 
 - `barrier.cpp`: This is the main source code file that contains the implementation of the process synchronization barrier using Semaphores.
-
-## Getting Started
-
-1. Clone or download the repository to your local machine.
-
-2. Open a terminal or command prompt and navigate to the project directory.
-
-3. Compile the `prefix-sum.cpp` file using a UNIX terminal make command. For example: `make`.
-
-4. To run, use command "./prefix-sum <ARRAY_SIZE> <TOTAL_THREADS> <OUTPUT_FILENAME>".
-     4a. ARRAY_SIZE - takes an integer, creates that many elements in the array
-		 4b. TOTAL_THREADS - takes an integer, creates that many worker threads
-		 4c. OUTPUT_FILENAME - takes a string, creates output file of that name to store results
-		 4d. Example Command: ":/prefix-sum 1000000 20 output.txt"
-		 
-5. After execution, the last line of the output file is considered final result.
-	 	 5a. Example Output for command above: "1000000"
-
+  
 
 ## Acknowledgments
 
