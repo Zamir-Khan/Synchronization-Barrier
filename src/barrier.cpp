@@ -1,5 +1,4 @@
-// Written by Zamir Khan, Tahmidul Karim, for CS4348 Project 3
-// Netid: ZHK210000, TXK210000
+// Developed by Zamir Khan, Tahmidul Karim, for Operating System Concepts
 
 #include "barrier.h"
 
