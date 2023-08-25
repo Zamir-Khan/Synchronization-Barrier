@@ -1,4 +1,6 @@
+// Proprietory to The University of Texas at Dallas
 /* This program solves the prefix sum problem using a parallel algorithm */
+// Uses reusable barrier to ensure process synchronization
 
 #include <iostream>
 #include <thread>
