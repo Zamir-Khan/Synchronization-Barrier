@@ -1,5 +1,3 @@
-// Developed by Zamir Khan, Tahmidul Karim, for Operating System Concepts
-
 #include "barrier.h"
 
 using namespace synchronization;
