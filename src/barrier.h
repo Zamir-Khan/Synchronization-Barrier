@@ -1,4 +1,3 @@
-// Developed by Zamir Khan, Tahmidul Karim, for Operating System Concepts
 
 #ifndef BARRIER_H
 #define BARRIER_H
