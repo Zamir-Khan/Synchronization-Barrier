@@ -1,6 +1,5 @@
 # Process Synchronization Barrier Project
-
-Welcome to the Process Synchronization Barrier project developed for the Operating System Concepts course in Summer 2023. This project revolves around the implementation of a process synchronization barrier using the power of Semaphores. The goal is to orchestrate a seamless synchronization mechanism that enhances coordination among processes. The barrier is carefully designed to ensure compatibility across diverse platforms while optimizing its performance.
+This project revolves around the implementation of a process synchronization barrier using the power of Semaphores. The goal is to orchestrate a seamless synchronization mechanism that enhances coordination among processes. The barrier is carefully designed to ensure compatibility across diverse platforms while optimizing its performance.
 
 ## Features
 
@@ -37,6 +36,6 @@ The project underscores the developer's expertise in C++ programming and their a
 
 ## Acknowledgments
 
-This project was developed as part of the Operating System Concepts course in Summer 2023. It showcases the integration of a process synchronization barrier using Semaphores and highlights the developer's expertise in C++ programming and UNIX environments.
+This project showcases the integration of a process synchronization barrier using Semaphores and highlights the developer's expertise in C++ programming and UNIX environments.
 
 ---
