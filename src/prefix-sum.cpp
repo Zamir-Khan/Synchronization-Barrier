@@ -1,4 +1,4 @@
-/* This program solves the prefix sum problem using a parallel algorithm */
+/* This program solves the prefix sum problem using barrier from semaphores */
 // Uses reusable barrier to ensure process synchronization
 
 #include <iostream>
